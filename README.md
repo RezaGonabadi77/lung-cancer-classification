@@ -1,4 +1,3 @@
-# lung-cancer-classification
 
 # Lung Cancer Detection
 This repository contains code for a lung cancer detection model that uses different machine learning algorithms.
